@@ -1,12 +1,14 @@
 ---
 content_type: page
+description: 'This section provides links to online resources to support the course
+  readings and assignments. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: af5ed880-61ad-425b-5f74-9b2c8b3c707f
 ---
 
-These links are used to support the course [readings]({{< baseurl >}}/pages/readings) and [assignments]({{< baseurl >}}/pages/assignments).
+These links are used to support the course {{% resource_link 8f63fe36-06cd-6d24-a9fe-d23bf9e2d237 "readings" %}} and {{% resource_link 071f561e-4081-2b63-c2e6-50949ba33878 "assignments" %}}.
 
 [White Watercolors/De Bry engravings](http://www.virtualjamestown.org/images/white_debry_html/introduction.html)  
 An excellent Web site allowing you to compare the engraved images in Harriot's book with John White's original watercolors.
