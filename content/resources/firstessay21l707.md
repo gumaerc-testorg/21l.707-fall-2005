@@ -5,6 +5,7 @@ file: /courses/21l-707-writing-early-american-lives-gender-race-nation-faith-fal
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: First Essay
 uid: 3a1a81aa-b3d6-321c-3c5c-1c2c74f84c22
 ---
 Suggested topics for an essay assignment.
-
