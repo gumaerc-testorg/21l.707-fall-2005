@@ -65,7 +65,7 @@ Rowlandson, Mary. *Sovereignty and Goodness of God*. Boston, MA: Bedford Books, 
 
 Seaver, James E., and Mary Jemison. *A Narrative of the Life of Mrs. Mary Jemison*. Norman, OK: University of Oklahoma Press, 1992. ISBN: 0806123818.
 
-Wheatley, Phillis. *Poems on Various Subjects, Religious and Moral (1773)*. Digital edition at Renascence Editions ([PDF](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/508/Renascence.pdf?sequence=1)).
+Wheatley, Phillis. *Poems on Various Subjects, Religious and Moral (1773)*. Digital edition at Renascence Editions ({{% resource_link "3dab9f24-7703-4126-863b-d2db60a7a3a7" "PDF" %}}).
 
 Wheatley, Phillis. Unpublished letters, in Vincent Carretta ed., *Complete Writings*. New York, NY: Penguin, 2001. pp. 139-162. ISBN: 014042430X.
 
@@ -83,7 +83,7 @@ Women, Captivity, Transculturation (cont.)
 
 Douglass, Frederick, and Harriet A. Jacobs. *Narrative of the Life of Frederick Douglass an American Slave and Incidents in the Life of a Slave Girl*. New York, NY: Modern Library, 2000. ISBN: 0679783288.
 
-Odell, Margaretta Matilda. *Memoir, in Memoir and Poems of Phillis Wheatley, a Native African and a Slave (1834)*. Digital edition at [Documenting the American South](http://docsouth.unc.edu/neh/wheatley/wheatley.html).
+Odell, Margaretta Matilda. *Memoir, in Memoir and Poems of Phillis Wheatley, a Native African and a Slave (1834)*. Digital edition at {{% resource_link "48f6c991-9ed4-4563-b01f-7788fff30046" "Documenting the American South" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
